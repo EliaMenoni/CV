@@ -1,0 +1,6 @@
+*.out
+*.fls
+*.log
+*.gz
+*.fdb*
+*.aux
